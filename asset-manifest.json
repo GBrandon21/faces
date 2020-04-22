@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GBrandon21/facesstatic/css/main.81718db8.chunk.css",
+    "main.js": "/GBrandon21/facesstatic/js/main.bc84017f.chunk.js",
+    "main.js.map": "/GBrandon21/facesstatic/js/main.bc84017f.chunk.js.map",
+    "runtime-main.js": "/GBrandon21/facesstatic/js/runtime-main.5e00d8b9.js",
+    "runtime-main.js.map": "/GBrandon21/facesstatic/js/runtime-main.5e00d8b9.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/GBrandon21/facesstatic/css/2.66b7f74f.chunk.css",
+    "static/js/2.be337bd5.chunk.js": "/GBrandon21/facesstatic/js/2.be337bd5.chunk.js",
+    "static/js/2.be337bd5.chunk.js.map": "/GBrandon21/facesstatic/js/2.be337bd5.chunk.js.map",
+    "index.html": "/GBrandon21/facesindex.html",
+    "precache-manifest.a52ec2c931921543e98701939bb34466.js": "/GBrandon21/facesprecache-manifest.a52ec2c931921543e98701939bb34466.js",
+    "service-worker.js": "/GBrandon21/facesservice-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/GBrandon21/facesstatic/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.81718db8.chunk.css.map": "/GBrandon21/facesstatic/css/main.81718db8.chunk.css.map",
+    "static/js/2.be337bd5.chunk.js.LICENSE.txt": "/GBrandon21/facesstatic/js/2.be337bd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e00d8b9.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.be337bd5.chunk.js",
+    "static/css/main.81718db8.chunk.css",
+    "static/js/main.bc84017f.chunk.js"
+  ]
+}
