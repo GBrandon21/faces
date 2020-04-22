@@ -1,0 +1,49 @@
+{
+  "name": "facerecon",
+  "homepage": "http://GBrandon21.github.io/faces",
+  "version": "0.1.0",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "clarifai": "^2.9.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-particles-js": "^2.7.1",
+    "react-scripts": "^3.2.0",
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.11.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GBrandon21/faces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GBrandon21/faces/issues"
+  }
+}
